@@ -1,4 +1,3 @@
 # 23 Books You Must Read in 2023
-1. Book-01 - Atomic Habits | ![image](https://github.com/psrana/23-Books-You-Must-Read-in-2023/assets/7460892/1bfd3c92-8304-4979-a7a2-9c99a24be947 =250x250)
-
+1. Book-01 - Atomic Habits | <img src="https://github.com/psrana/23-Books-You-Must-Read-in-2023/assets/7460892/1bfd3c92-8304-4979-a7a2-9c99a24be947" width=50% height=50%>
 2. 
