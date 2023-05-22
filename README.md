@@ -4,7 +4,7 @@
 
 |SN|Book|
 |:---:|---|
-| 1 | Atomic Habits \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM"><img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/70a6ec0b-d5d2-49e9-9880-525c55b14f61" width="6%" height="6%" /></a> <a href="https://www.youtube.com/shorts/9uOsB39DwGM"><img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/6471e3f3-7a57-497b-a4c6-0d2b4dc791fe" width="5%" height="5%" /></a>|
+| 1 | Atomic Habits <a href="https://www.youtube.com/shorts/9uOsB39DwGM"><img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/70a6ec0b-d5d2-49e9-9880-525c55b14f61" width="6%" height="6%" /></a>       <a href="https://www.youtube.com/shorts/9uOsB39DwGM"><img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/6471e3f3-7a57-497b-a4c6-0d2b4dc791fe" width="5%" height="5%" /></a>|
 | 2 | The Courage to be Disliked \| <a href="https://kukufm.com/show/courage-of-pursuing-your-dreams">Click Here</a> |
 | 3 | Ikigai: The Japanese secret to a long and happy life \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM">Click Here</a>|
 | 4 | The Psychology of Money \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM"> Click Here</a>|
