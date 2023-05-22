@@ -1,7 +1,5 @@
 # 42 Must Read Books in 2023
-![image]()
-![image]()
-![image]()
+
 
 
 |SN|Book|
