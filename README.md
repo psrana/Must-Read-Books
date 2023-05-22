@@ -1,11 +1,11 @@
 # 42 Must Read Books in 2023
 ![image]()
 
-<img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/53d84e5e-fdf8-44ff-918f-a272e6af3341" width="10%" height="10%" />
+
 
 |SN|Book|Link|
 |:---:|---|---|
-| 1 | Atomic Habits \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM">Click Here</a>|
+| 1 | Atomic Habits \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM"><img src="https://github.com/psrana/42-Must-Read-Books-in-2023/assets/7460892/53d84e5e-fdf8-44ff-918f-a272e6af3341" width="5%" height="5%" /></a>|
 | 2 | The Courage to be Disliked \| <a href="https://kukufm.com/show/courage-of-pursuing-your-dreams">Click Here</a> |
 | 3 | Ikigai: The Japanese secret to a long and happy life \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM">Click Here</a>|
 | 4 | The Psychology of Money \| <a href="https://www.youtube.com/shorts/9uOsB39DwGM"> Click Here</a>|
